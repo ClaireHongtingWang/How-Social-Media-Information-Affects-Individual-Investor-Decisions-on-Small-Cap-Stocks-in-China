@@ -19,5 +19,5 @@ Latent Dirichlet Allocation (LDA)
 
 # 5. Codes Explaination
 Data collection.py: Web crawler.  
-TF_IDF.PY: The frequency of each word.  
+TF_IDF.py: The frequency of each word.  
 LDA.ipynb: Explain why some parts of the data are similar.
